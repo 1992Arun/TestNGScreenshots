@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56731" started-at="2024-12-29T15:48:12Z" finished-at="2024-12-29T15:49:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56731" started-at="2024-12-29T15:48:12Z" finished-at="2024-12-29T15:49:08Z">
+      <class name="org.cases.TC_RF_003">
+        <test-method status="PASS" signature="invalidEmail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.cases.TC_RF_003@7c29daf3]" name="invalidEmail" duration-ms="15055" started-at="2024-12-29T21:18:12Z" data-provider="details" finished-at="2024-12-29T21:18:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lamine]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yammal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9291729782]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ amotoori]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmail -->
+        <test-method status="PASS" signature="invalidEmail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.cases.TC_RF_003@7c29daf3]" name="invalidEmail" duration-ms="12857" started-at="2024-12-29T21:18:27Z" data-provider="details" finished-at="2024-12-29T21:18:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9291729782]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[amotoori@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmail -->
+        <test-method status="PASS" signature="invalidEmail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.cases.TC_RF_003@7c29daf3]" name="invalidEmail" duration-ms="13666" started-at="2024-12-29T21:18:40Z" data-provider="details" finished-at="2024-12-29T21:18:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kevin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[F]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[801828020]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[amotoori@gmail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmail -->
+        <test-method status="PASS" signature="invalidEmail(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.cases.TC_RF_003@7c29daf3]" name="invalidEmail" duration-ms="14591" started-at="2024-12-29T21:18:54Z" data-provider="details" finished-at="2024-12-29T21:19:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Messi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[leo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[677126721]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[amotoori@gmail.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidEmail -->
+      </class> <!-- org.cases.TC_RF_003 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
